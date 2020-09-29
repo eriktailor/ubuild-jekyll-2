@@ -12,6 +12,5 @@ col_3:
   headline: ''
   slug: ''
   content: ''
-published: false
 
 ---
