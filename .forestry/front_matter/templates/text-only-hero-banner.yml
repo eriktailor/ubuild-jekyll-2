@@ -14,3 +14,12 @@ fields:
       format: html
   label: Headline
   name: heading
+- name: datum
+  type: datetime
+  label: Dátum
+  description: bihntojrmg,f
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
